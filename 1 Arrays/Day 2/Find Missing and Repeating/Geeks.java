@@ -37,13 +37,15 @@ class Solve {
         int res[] = new int[2];
         int freq[] = new int[n];
         for(int i=0 ; i<n; i++)
-           freq[arr[i]-1]++;       
+           freq[arr[i]-1]++;  
+           
+        // Calculating the frequency of numbers in array   
        
         for(int i=0; i<n;i++){
-           if(freq[i] == 2)
+           if(freq[i] == 2) // when frequency equals to 2, it is the repeating number.
               res[0] = i+1;
             
-            if(freq[i] == 0)
+            if(freq[i] == 0)// when frequency equals to 0, it is the missing number.
               res[1] = i+1;              
         }
         return res;
@@ -64,6 +66,12 @@ class Solve {
             if (arr[i] > 0) ans[1] = i + 1;
         }
         return ans;
+
+        Explanation:
+            Traverse the array. 
+            While traversing, use the absolute value of every element as an index and make the value at this index as negative to mark it visited.
+            If something is already marked negative then this is the repeating element.
+            To find missing, traverse the array again and look for a positive value.
 
          */
 
