@@ -9,4 +9,5 @@
 
 ##### April 3
 4. [Rotate Array - Counter clockwise](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/4%20Rotate%20Array%20counter-clockwise)
+5. [Circular Array Rotation](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/5%20Circular%20Array%20Rotation)
 
