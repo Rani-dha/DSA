@@ -1,5 +1,4 @@
-// Program 6: 
-
+// Program 6: https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1/
 
 class Solution{
     //Function to find the sum of contiguous subarray with maximum sum.
