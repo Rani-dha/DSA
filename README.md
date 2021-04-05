@@ -14,3 +14,6 @@
 ##### April 4
 6. [Kadane's Algorithm (Maximum Sum Subarray Problem)](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/6%20Kadane's%20Algorithm)
 
+##### April 5
+7. [Merge two sorted Arrays without extra space]()
+
