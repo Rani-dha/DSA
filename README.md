@@ -19,4 +19,5 @@
 8. [Merge Overlapping Subintervals]()
 9. [Set Matrix Zeros]()
 10. [Pascal Triangle]()
+11. [Next Permutation]()
 
