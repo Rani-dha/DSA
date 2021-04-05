@@ -9,17 +9,18 @@
 
 ##### April 3
 4. [Rotate Array - Counter clockwise](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/4%20Rotate%20Array%20counter-clockwise)
-5. [Circular Array Rotation](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/5%20Circular%20Array%20Rotation)
+Optional: [Circular Array Rotation](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/5%20Circular%20Array%20Rotation)
 
 ##### April 4
-6. [Kadane's Algorithm (Maximum Sum Subarray Problem)](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/6%20Kadane's%20Algorithm)
+5. [Kadane's Algorithm (Maximum Sum Subarray Problem)](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/6%20Kadane's%20Algorithm)
 
 ##### April 5
+6. [Stock Buy and Sell]()
 7. [Merge two sorted Arrays without extra space]()
 8. [Merge Overlapping Subintervals]()
 9. [Set Matrix Zeros]()
 10. [Pascal Triangle]()
 11. [Next Permutation]()
 12. [Inversion of Array (Using Merge Sort)]()
-13. [Stock Buy and Sell]()
+
 
