@@ -21,4 +21,5 @@
 10. [Pascal Triangle]()
 11. [Next Permutation]()
 12. [Inversion of Array (Using Merge Sort)]()
+13. [Stock Buy and Sell]()
 
