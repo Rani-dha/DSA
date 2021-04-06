@@ -29,6 +29,7 @@ Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/
 ### 2) LinkedLists
 ##### April 7
 1. [Reverse a LinkedList]()
-2. [ Find middle of LinkedList]()
+2. [Find middle of LinkedList]()
+3. [Merge two sorted Linked List]()
 
 
