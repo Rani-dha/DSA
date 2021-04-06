@@ -23,4 +23,7 @@ Optional: [Circular Array Rotation](https://github.com/Rani-dha/DSA/tree/master/
 11. [Next Permutation]()
 12. [Inversion of Array (Using Merge Sort)]()
 
+##### April 6
+[Print Diagonally]()
+
 
