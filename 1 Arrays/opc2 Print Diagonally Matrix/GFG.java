@@ -1,4 +1,4 @@
-// Program opc2: 
+// Program opc2: https://practice.geeksforgeeks.org/problems/print-diagonally/0
 
 import java.util.*;
 import java.lang.*;
