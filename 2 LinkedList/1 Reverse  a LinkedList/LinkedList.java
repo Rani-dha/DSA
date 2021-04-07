@@ -49,3 +49,39 @@ class LinkedList
         return dummyNode.next; 
 }  
 }
+
+// Approach 2
+/**
+ 
+class LinkedList
+{
+    //Function to merge two sorted linked list.
+    Node sortedMerge(Node head1, Node head2) {
+     // This is a "method-only" submission. 
+     // You only need to complete this method
+     
+     if( head1 == null ) return head2;
+     if(head2 == null ) return head1;
+     if( head1.data > head2.data){
+         Node  t = head1;
+         head1 = head2;
+         head2 = t;
+     }
+     Node res = head1;
+     while( head1 !=null && head2 != null){
+         Node tmp = null;
+         while( head1 != null &&  head1.data <= head2.data){
+             tmp = head1;
+             head1 = head1.next;
+         }
+         tmp.next = head2;
+         
+         Node temp = head1; 
+         head1 = head2;
+         head2 = temp;
+     }
+     return res;
+   } 
+}
+
+ */
