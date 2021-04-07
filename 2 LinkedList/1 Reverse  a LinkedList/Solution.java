@@ -1,4 +1,4 @@
-// Program 1:
+// Program 1: https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1/
 
 /* linked list node class:
 
