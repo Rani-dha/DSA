@@ -1,4 +1,4 @@
-// Program 1: https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1/
+// Program 3: https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1/
 
 class LinkedList
 {
