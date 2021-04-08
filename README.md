@@ -41,3 +41,6 @@ Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/
 7. [Find intersection point of Y LinkedList]()
 8. [Check if a LinkedList is palindrome or not.]()
 9. [Reverse a LinkedList in groups]()
+
+##### April 9
+10. [Detect a cycle and removing loop(two different questions and same concept)]()
