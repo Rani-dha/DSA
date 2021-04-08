@@ -39,3 +39,4 @@ Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/
 
 ##### April 8
 7. [Find intersection point of Y LinkedList]()
+8. [Check if a LinkedList is palindrome or not.]()
