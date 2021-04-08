@@ -36,3 +36,6 @@ Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/
 4. [Remove N-th node from back of LinkedList]()
 5. [Delete a given Node when a node is given. (0(1) solution)]()
 6. [Add two numbers as LinkedList]()
+
+##### April 8
+7. [Find intersection point of Y LinkedList]()
