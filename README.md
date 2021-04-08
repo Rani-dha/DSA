@@ -32,4 +32,5 @@ Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/
 2. [Find middle of LinkedList]()
 3. [Merge two sorted Linked List](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/3%20Merge%20two%20sorted%20LinkedList)
 
-
+##### April 8
+4. [Remove N-th node from back of LinkedList]()
