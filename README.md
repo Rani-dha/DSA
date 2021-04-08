@@ -45,3 +45,4 @@ Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/
 ##### April 9
 10. [Detect a cycle and removing loop(two different questions and same concept)]()
 11. [Flattening of a LinkedList]()
+12. [Rotate a LinkedList]()
