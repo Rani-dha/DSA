@@ -7,7 +7,7 @@
 ##### Day 2 - April 2
 3. [Find Missing and Repeating Number](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/3%20Find%20Missing%20and%20Repeating)
 
-##### April 3
+##### Day 3 - April 3
 4. [Rotate Array - Counter clockwise](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/4%20Rotate%20Array%20counter-clockwise)
 Opc1: [Circular Array Rotation](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/5%20Circular%20Array%20Rotation)
 
