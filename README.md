@@ -23,7 +23,7 @@ Opc1: [Circular Array Rotation](https://github.com/Rani-dha/DSA/tree/master/1%20
 11. [Next Permutation]()
 12. [Inversion of Array (Using Merge Sort)]()
 
-##### April 6
+##### Day 6 - April 6
 Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/opc2%20Print%20Diagonally%20Matrix)
 
 ### 2) LinkedLists
