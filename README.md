@@ -14,7 +14,7 @@ Opc1: [Circular Array Rotation](https://github.com/Rani-dha/DSA/tree/master/1%20
 ##### April 4
 5. [Kadane's Algorithm (Maximum Sum Subarray Problem)](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/6%20Kadane's%20Algorithm)
 
-##### April 5
+##### Day 5 - April 5
 6. [Stock Buy and Sell]()
 7. [Merge two sorted Arrays without extra space]()
 8. [Merge Overlapping Subintervals]()
