@@ -37,12 +37,12 @@ Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/
 5. [Delete a given Node when a node is given. (0(1) solution)]()
 6. [Add two numbers as LinkedList]()
 
-##### April 8
+##### April 9
 7. [Find intersection point of Y LinkedList]()
 8. [Check if a LinkedList is palindrome or not.]()
 9. [Reverse a LinkedList in groups]()
 
-##### April 9
+##### April 10
 10. [Detect a cycle and removing loop(two different questions and same concept)]()
 11. [Flattening of a LinkedList]()
 12. [Rotate a LinkedList]()
