@@ -42,7 +42,7 @@ Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/
 8. [Check if a LinkedList is palindrome or not.]()
 9. [Reverse a LinkedList in groups]()
 
-##### April 10
+##### Day 10 - April 10
 10. [Detect a cycle and removing loop(two different questions and same concept)]()
 11. [Flattening of a LinkedList]()
 12. [Rotate a LinkedList]()
