@@ -27,7 +27,7 @@ Opc1: [Circular Array Rotation](https://github.com/Rani-dha/DSA/tree/master/1%20
 Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/opc2%20Print%20Diagonally%20Matrix)
 
 ### 2) LinkedLists
-##### April 7
+##### Day 7 - April 7
 1. [Reverse a LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/1%20Reverse%20%20a%20LinkedList)
 2. [Find middle of LinkedList]()
 3. [Merge two sorted Linked List](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/3%20Merge%20two%20sorted%20LinkedList)
