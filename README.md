@@ -50,4 +50,4 @@ Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/
 ### 3) Strings
 ##### Day 11 - April 11
 1. [Reverse Words in a String]()
-
+2. [Longest Palindrome in a string]()
