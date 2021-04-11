@@ -1,5 +1,5 @@
 # Data Structure and Algorithmns (DSA)
-### 1) Arrays
+### 1) [Arrays](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays)
 
 ### 2) LinkedLists
 ##### Day 7 - April 7
