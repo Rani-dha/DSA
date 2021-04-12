@@ -1,9 +1,9 @@
-//
-//
+// Program 4: Implementation of ATOI (String to Int)
+//  https://leetcode.com/problems/string-to-integer-atoi/
 
 class Solution {
     public int myAtoi(String s) {
-        
+
         if( s == "")
             return 0;
         int sign=1, i=0, n = s.length();
