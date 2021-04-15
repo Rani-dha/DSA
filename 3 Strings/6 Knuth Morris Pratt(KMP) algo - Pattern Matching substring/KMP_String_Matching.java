@@ -12,7 +12,7 @@
  *  
  */
 
-
+// Reference: https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
 // JAVA program for implementation of KMP pattern
 // searching algorithm
 
