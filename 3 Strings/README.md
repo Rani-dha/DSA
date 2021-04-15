@@ -8,7 +8,7 @@
 
 ##### Day 12 - April 12
 4. [Implementation of ATOI (String to Int)](https://github.com/Rani-dha/DSA/tree/master/3%20Strings/4%20Implementation%20of%20ATOI%20(String%20to%20Int))
-5. []()
+5. [Implementation of STRSTR(Pattern Matching)](https://github.com/Rani-dha/DSA/tree/master/3%20Strings/5%20Implementation%20of%20STRSTR)
 6. []()
 
 ##### Day 13 - April 13
