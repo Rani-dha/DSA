@@ -1,5 +1,5 @@
-//
-//
+// Program 2: Reverse each word in a string
+// https://practice.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1#
 
 class Solution
 {
