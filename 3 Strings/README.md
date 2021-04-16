@@ -4,7 +4,8 @@
 ##### Day 11 - April 11
 1. [Reverse Words in a String](https://github.com/Rani-dha/DSA/tree/master/3%20Strings/1%20Reverse%20words%20in%20a%20string)
 2. [Reverse each word in a string](https://github.com/Rani-dha/DSA/tree/master/3%20Strings/2%20Reverse%20each%20word%20in%20a%20string)
-3. [Roman Number to Integer](https://github.com/Rani-dha/DSA/tree/master/3%20Strings/Integer%20to%20Roman) &&  [Integer to Roman]()
+3a. [Roman Number to Integer](https://github.com/Rani-dha/DSA/tree/master/3%20Strings/3a%20Integer%20to%20Roman)
+3b. [Integer to Roman]()
 
 ##### Day 12 - April 12
 4. [Implementation of ATOI (String to Int)](https://github.com/Rani-dha/DSA/tree/master/3%20Strings/4%20Implementation%20of%20ATOI%20(String%20to%20Int))
