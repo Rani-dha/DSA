@@ -14,6 +14,6 @@
 
 ##### Day 13 - April 13
 7. [Longest Palindrome in a string]()
-8. [Count and Say]()
+8. [Count and Say](https://github.com/Rani-dha/DSA/tree/master/3%20Strings/8%20Count%20and%20Say)
 
 
