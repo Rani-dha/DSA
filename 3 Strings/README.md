@@ -13,5 +13,6 @@
 
 ##### Day 13 - April 13
 7. [Longest Palindrome in a string]()
+8. [Count and Say]()
 
 
