@@ -7,7 +7,7 @@
 3. [Merge two sorted Linked List](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/3%20Merge%20two%20sorted%20LinkedList)
 
 ##### Day 8 - April 8
-4. [Remove N-th node from back of LinkedList]()
+4. [Remove N-th node from back of LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/4%20Remove%20Nth%20node%20from%20the%20End%20of%20the%20LinkedList)
 5. [Delete a given Node when a node is given. (0(1) solution)]()
 6. [Add two numbers as LinkedList]()
 
