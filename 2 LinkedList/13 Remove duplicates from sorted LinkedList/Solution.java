@@ -1,5 +1,5 @@
-// Program 13:
-//
+// Program 13: Remove duplicates from sorted LinkedList
+// https://www.hackerrank.com/challenges/30-linked-list-deletion/submissions/
 
 public static Node removeDuplicates(Node head) {
     //Write your code here
