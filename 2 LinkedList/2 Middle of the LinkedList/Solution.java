@@ -1,5 +1,5 @@
 // Program 2: Middle of the LinkedList
-//
+// https://leetcode.com/problems/middle-of-the-linked-list/submissions/
 
 // Naive approach:
 /**
@@ -35,5 +35,31 @@ class Solution {
 }
 
 
-// Tortoise method:
+// Tortoise method:( Efficient solution)
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode middleNode(ListNode head) {
+
+        ListNode next = head;
+        ListNode current = head;
+        
+        while(next != null && next.next != null){
+            current = current.next;
+            next=next.next.next;
+        }
+        
+        return current;
+        
+    }
+}
 
