@@ -8,7 +8,7 @@
 
 ##### Day 8 - April 8
 4. [Remove N-th node from back of LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/4%20Remove%20Nth%20node%20from%20the%20End%20of%20the%20LinkedList)
-5. [Delete a given Node when a node is given. (0(1) solution)](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/5%20Delete%20the%20given%20node%20when%20the%20node%20is%20given)
+5. [Delete a given Node when a node is given. (0(1) solution)](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/%20Delete%20the%20given%20node%20when%20the%20node%20is%20given)
 6. [Add two numbers as LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/6%20Add%20two%20numbers%20in%20LinkedList)
 
 ##### Day 9 - April 9
