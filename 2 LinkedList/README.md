@@ -22,4 +22,4 @@
 12. [Rotate a LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/12%20Rotate%20a%20LinkedList)
 
 ##### Optional
-13. [Remove duplicates from  sorted LinkedList]()
+13. [Remove duplicates from  sorted LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/13%20Remove%20duplicates%20from%20sorted%20LinkedList)
