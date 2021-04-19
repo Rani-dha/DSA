@@ -1,4 +1,4 @@
-// Program 7:
+// Program 7: https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/
 //
 
 /**
@@ -15,7 +15,7 @@
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {     
         // Efficient Approach
-        
+
         ListNode dummyA = headA, dummyB = headB;
         while( dummyA != dummyB){
             dummyA = ( dummyA == null ) ? headB : dummyA.next;
