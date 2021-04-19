@@ -1,5 +1,5 @@
-// Program 12:
-//
+// Program 12: Rotate a LinkedList
+// https://leetcode.com/problems/rotate-list/submissions/
 
 /**
  * Definition for singly-linked list.
@@ -13,7 +13,7 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        
+
         if(head == null || head.next == null || k == 0) // edge cases
             return head;
         
@@ -25,7 +25,7 @@ class Solution {
             temp =temp.next;
         }
         
-        temp.next = head;
+        temp.next = head; //Making a Circular LinkedList as of now
         k = length - ( k%length);
         
         while( k-- != 0)
