@@ -1,7 +1,7 @@
 # Data Structures and algorithms
 
 ### 2) [LinkedLists](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList)
-##### Day 7 - April 7
+#####
 1. [Reverse a LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/1%20Reverse%20%20a%20LinkedList)
 2. [Find middle of LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/2%20Middle%20of%20the%20LinkedList)
 3. [Merge two sorted Linked List](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/3%20Merge%20two%20sorted%20LinkedList)
