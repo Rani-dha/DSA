@@ -1,5 +1,5 @@
-// 
-//
+// Check if LinkedList is palindrome or not
+// https://leetcode.com/problems/palindrome-linked-list/submissions/
 
 
 /**
@@ -18,19 +18,19 @@ class Solution {
         if( head.next == null  || head  == null )
             return true;       
         
-        // Find the middle of the LinkedList    
+        // 1) Find the middle of the LinkedList    
         ListNode slow = head, fast = head;
         while( fast.next != null && fast.next.next != null){
             slow = slow.next;
             fast = fast.next.next;
         }   
         
-        // Reverse the right half of LinkedList
+        // 2) Reverse the right half of LinkedList
         slow.next = reverseList( slow.next);
         
         slow = slow.next; // Move slow to right half        
         
-        // Checking the left half and right half of LinkedList are equal or not
+        // 3) Checking the left half and right half of LinkedList are equal or not
         ListNode temp = head;
         while( slow != null){
             if( slow.val != temp.val)
