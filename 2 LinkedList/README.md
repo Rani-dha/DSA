@@ -13,7 +13,7 @@
 
 ##### 
 7. [Find intersection point of Y LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/7%20Intersection%20of%20two%20LinkedLists)
-8. [Check if a LinkedList is palindrome or not.]()
+8. [Check if a LinkedList is palindrome or not](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/8%20Check%20if%20LinkedList%20is%20palindrome%20or%20not)
 9. [Reverse a LinkedList in groups]()
 
 ##### 
