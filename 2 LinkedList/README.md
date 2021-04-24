@@ -17,7 +17,7 @@
 9. [Reverse a LinkedList in groups]()
 
 ##### 
-10. [Detect a cycle and removing loop(two different questions and same concept)]()
+10. [Detect a cycle](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/10%20LinkedList%20Cycle/Detect%20a%20Cycle%20in%20LinkedList) and removing loop(two different questions and same concept)]()
 11. [Flattening of a LinkedList]()
 12. [Rotate a LinkedList](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList/12%20Rotate%20a%20LinkedList)
 
