@@ -1,5 +1,5 @@
-//
-//
+// Rearrange array alternately
+// https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1/?track=md-arrays&batchId=144#
 
 
 class Solution{
@@ -18,8 +18,17 @@ class Solution{
         
         for ( i=0; i<n; i++)
            arr[i] /= m;
-
         
     }
     
 }
+
+
+/* Input:
+N = 11
+arr[]={10,20,30,40,50,60,70,80,90,100,110}
+Output:110 10 100 20 90 30 80 40 70 50 60
+Explanation: Max element = 110, min = 10, 
+second max = 100, second min = 20, and 
+so on... Modified array is : 
+110 10 100 20 90 30 80 40 70 50 60.  */
