@@ -24,4 +24,5 @@ Opc1: [Circular Array Rotation](https://github.com/Rani-dha/DSA/tree/master/1%20
 12. [Inversion of Array (Using Merge Sort)]()
 
 ##### Day 6 - April 6
-Opc2: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/opc2%20Print%20Diagonally%20Matrix)
+Opc1: [Print Diagonally](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/opc2%20Print%20Diagonally%20Matrix)
+Opc2: [Rearrange array alternately](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays/8%20Rearrange%20array%20alternately)
