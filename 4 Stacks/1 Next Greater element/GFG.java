@@ -1,5 +1,5 @@
-//
-//
+// Program 1: Next Greater element in a array.
+// https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1/?track=md-stack&batchId=144#
 
 /*package whatever //do not write package name here */
 
