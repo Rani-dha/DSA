@@ -1,5 +1,5 @@
-//
-//
+// Program 2: Stock span problem
+// https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/?track=ppc-stack&batchId=221#
 
 import java.util.*;
 import java.io.*;
