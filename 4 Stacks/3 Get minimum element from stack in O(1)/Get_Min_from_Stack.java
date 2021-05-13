@@ -58,7 +58,7 @@ class GfG
     int getMin()
     {
 	// Your code here
-	if( s.isEmpty() == true)
+	if( s.isEmpty() == true) // Getting min from empty stack is always -1.
 	    return -1;
 	return minEle;
     }
@@ -101,4 +101,14 @@ class GfG
       }	
 }
 }
+
+
+/*
+Input:
+2 1 16 3 2 2 1 50 2 3 2 3 2 3 2 1 27 2 2 3 3 1 30 3 3 3 2 2 2 3 1 23 1 70 1 94 2 2 2 1 74
+
+Its output is:
+-1 16 16 -1 50 -1 -1 -1 -1 -1 -1 27 -1 -1 -1 30 30 30 30 -1 -1 -1 94 70 23
+
+*/
 
