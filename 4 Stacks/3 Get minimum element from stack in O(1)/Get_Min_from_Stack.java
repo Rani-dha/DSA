@@ -1,10 +1,8 @@
-//
-//
+// Prograam 3: Get Minimum element from stack in O(1) time complexity.
+// https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1/?track=ppc-stack&batchId=221#
 
 
 import java.util.*;
-
-
 
 class Get_Min_From_Stack
 {
