@@ -6,3 +6,5 @@
 ### 3) [Strings](https://github.com/Rani-dha/DSA/tree/master/3%20Strings)
 ### 4) [Stacks](https://github.com/Rani-dha/DSA/tree/master/4%20Stacks)
 
+### [Class Programs](https://github.com/Rani-dha/DSA/tree/master/Class%20programs)
+
