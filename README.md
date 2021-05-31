@@ -5,6 +5,7 @@
 ### 4) [Stacks](https://github.com/Rani-dha/DSA/tree/master/4%20Stacks)
 ### 5) [Graphs](https://github.com/Rani-dha/DSA/tree/master/5%20Graphs)
 ### 6) [Trees](https://github.com/Rani-dha/DSA/tree/master/6%20Trees)
+### 7) [Sorting]() 
 
 ### [Class Programs](https://github.com/Rani-dha/DSA/tree/master/Class%20programs)
 
