@@ -39,3 +39,7 @@
         return result;
 
     }
+
+    // LL1: 1 2  3  
+    // LL2: 3 4
+    // Output: 1 2 3 3 4
