@@ -1,10 +1,13 @@
 // Program 14: Top view of BT
 // https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1/#
 
-class Pair{
+class Pair{  
     Node node;
     int hd;
-    Pair(Node n,int h){node=n;hd=h;}
+    Pair(Node n,int h){
+        node=n;
+        hd=h;
+    }  // To pair the node and horizontal distance.
 }
 
 class Solution
