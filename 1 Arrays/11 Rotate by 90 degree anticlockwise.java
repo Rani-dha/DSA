@@ -69,3 +69,17 @@ class GFG
         reverseColumns(matrix, matrix[0].length);
     }
 }
+
+// Time complexity : O(N*N) O(N*N)
+// Space : O(1)
+
+// Input:
+// N = 3
+// matrix[][] = [[1 2 3],
+//               [4 5 6],
+//               [7 8 9]]
+
+// Output:
+// 3 6 9 
+// 2 5 8 
+// 1 4 7
