@@ -1,8 +1,43 @@
 // Program 10 Rotate Image or Rotate array by 90 degree
-// https://leetcode.com/problems/rotate-image/submissions/
+// https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space1004/1#
+
+
+import java.util.*;
+import java.io.*;
+
+public class Main {
+
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        PrintWriter out = new PrintWriter(System.out);
+        int tc = Integer.parseInt(br.readLine().trim());
+        while (tc-- > 0) {
+            String[] inputLine;
+            int n = Integer.parseInt(br.readLine().trim());
+            int[][] arr = new int[n][n];
+            inputLine = br.readLine().trim().split(" ");
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    arr[i][j] = Integer.parseInt(inputLine[i * n + j]);
+                }
+            }
+
+            new Solution().rotateMatrix(arr, n);
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    out.print(arr[i][j] + " ");
+                }
+            }
+            out.println();
+        }
+        out.flush();
+    }
+}
 
 class Solution {
-    public void rotate(int[][] matrix) {
+    public void rotateMatrix(int[][] matrix, int n) {
+        
+        // transpose
         for(int i=0;i<matrix.length;i++){
             for(int j=i;j< matrix[0].length; j++){
                 int temp =0;
@@ -12,6 +47,7 @@ class Solution {
             }
         }
         
+        // reverse row
         for(int i=0;i<matrix.length;i++){
             for(int j=0;j<matrix.length/2; j++){
                 int temp =0;
