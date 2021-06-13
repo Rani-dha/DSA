@@ -126,7 +126,7 @@ class Solution {
     int height(Node node) 
     {
         // code here 
-        if( node == null) return 0;
+        if( node == null) return 0;  // return -1 if root is not considered for height. If root is included in height then return 0.
         return 1+ Math.max( height(node.left), height(node.right));
     }
 }
