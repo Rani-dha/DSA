@@ -40,3 +40,122 @@ class Solution {
             return true;
         }
     }
+
+// https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1#
+
+//Initial Template for Java
+
+import java.util.*;
+import java.io.*;
+import java.lang.*;
+
+class Driver_class
+{
+    public static void main(String args[])
+    {
+        
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        
+        while(t-- > 0)
+        {
+            int grid[][] = new int[9][9];
+            for(int i = 0; i < 9; i++)
+            {
+                for(int j = 0; j < 9; j++)
+                grid[i][j] = sc.nextInt();
+            }
+            
+            Solution ob = new Solution();
+            
+            if(ob.SolveSudoku(grid) == true)
+                ob.printGrid(grid);
+            else
+                System.out.print("NO solution exists");
+            System.out.println();
+            
+        }
+    }
+}
+
+
+
+// } Driver Code Ends
+
+
+//User function Template for Java
+
+class Solution
+{
+        static boolean isSafe(int i,int j,int n,int[][] grid){
+        for(int k=0;k<grid.length;k++){
+            if(grid[k][j] == n || grid[i][k] == n)
+                return false;
+        }
+        
+        
+        //int s=(int)Math.sqrt(n);
+        int s = 3; //s will be equal to 3
+        int rs=i-(i%s);
+        int cs=j-(j%s);
+        
+        
+        for(int l=0;l<s;l++){
+            for(int m=0;m<s;m++){
+                if(grid[l+rs][m+cs] == n)
+                    return false;
+            }
+        }
+        return true;
+    }
+    
+    
+    
+    static boolean SolveSudoku(int grid[][])
+    {
+        int i=0,j=0;
+        int n=grid.length;
+        boolean fnd = false;  //flag to indicate if an unassigned location is found
+        for(i=0;i<n;i++){
+            for(j=0;j<n;j++){
+                if(grid[i][j] == 0){
+                    fnd = true; //mark it as true 
+                    break;
+                }
+            }
+            if(fnd) //if flag is true, break
+             break;
+        }
+        
+        if(i == n && j==n)
+            return true; 
+        
+        for(int k=1;k<=n;k++){
+            if(isSafe(i,j,k,grid)==true){
+                grid[i][j]=k; //assign grid[i][j] as k
+                if(SolveSudoku(grid)==true)
+                    return true;
+                grid[i][j]=0;    
+            }
+        }
+        return false;
+    }
+    
+    //Function to print grids of the Sudoku.
+    static void printGrid (int grid[][])
+    {
+        if(SolveSudoku(grid) == true){
+            for(int i=0;i<grid.length;i++){
+                for(int j=0;j<grid.length;j++){
+                    System.out.print(grid[i][j]+" ");
+                }
+            }
+        }
+    }     
+}
+
+
+
+
+
+
