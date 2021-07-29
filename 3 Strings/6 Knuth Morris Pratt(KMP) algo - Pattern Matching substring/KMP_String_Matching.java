@@ -97,4 +97,3 @@ class KMP_String_Matching {
 		new KMP_String_Matching().KMPSearch(pat, txt);
 	}
 }
-// This code has been contributed by Amit Khandelwal.
