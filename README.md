@@ -1,4 +1,4 @@
-# Problem Solving
+## Problem Solving  
 Problems solved by me in coding platforms like GeeksForGeeks, HackerRank, Leetcode. The purpose of this repo is to improve my problem solving and logical skills.
 
 
