@@ -1,4 +1,8 @@
-# Data Structure and Algorithmns (DSA)
+# Problem Solving
+Problems solved by me in coding platforms like GeeksForGeeks, HackerRank, Leetcode. The purpose of this repo is to improve my problem solving skills.
+
+
+<!-- # Data Structure and Algorithmns (DSA)
 ### 1) [Arrays](https://github.com/Rani-dha/DSA/tree/master/1%20Arrays)
 ### 2) [LinkedLists](https://github.com/Rani-dha/DSA/tree/master/2%20LinkedList)
 ### 3) [Strings](https://github.com/Rani-dha/DSA/tree/master/3%20Strings)
@@ -9,3 +13,4 @@
 
 ### [Class Programs](https://github.com/Rani-dha/DSA/tree/master/Class%20programs)
 
+ -->
