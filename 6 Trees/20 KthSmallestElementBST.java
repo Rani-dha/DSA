@@ -1,4 +1,4 @@
-// Program 20: Kth smallest element in BST
+ // Program 20: Kth smallest element in BST
 // https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/
 
 /**
@@ -18,7 +18,7 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        int num[] = new int[2];
+        int num[] = new int[2]; 
         inorder(root,k, num);   
         return num[1];
     }

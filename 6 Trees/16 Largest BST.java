@@ -43,3 +43,4 @@ class Solution{
                 isBST(node.right, node.data+1, max);
     }
 }
+  
