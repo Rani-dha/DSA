@@ -68,7 +68,7 @@ class Solution
 	static int findLongestConseqSubseq(int arr[], int N)
 	{
 	   // add your code here
-	   HashSet<Integer> hs = new HashSet<>();
+	HashSet<Integer> hs = new HashSet<>();
         int longestStreak = 0;
         for(Integer i:arr)
             hs.add(i);
@@ -83,7 +83,7 @@ class Solution
                 }
                 longestStreak = Math.max(longestStreak, count);
             }
-            else hs.add(arr[i]);
+            
         }
         return longestStreak;
 	}
